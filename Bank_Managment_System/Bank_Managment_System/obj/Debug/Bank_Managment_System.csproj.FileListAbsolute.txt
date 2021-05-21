@@ -1,0 +1,16 @@
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\bin\Debug\Bank_Managment_System.exe.config
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\bin\Debug\Bank_Managment_System.exe
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\bin\Debug\Bank_Managment_System.pdb
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.csprojAssemblyReference.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.Form1.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.Properties.Resources.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.csproj.GenerateResource.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.exe
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.pdb
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.GirisForm.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.MusteriForm.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.YoneticiForm.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\Bank_Managment_System\Bank_Managment_System\obj\Debug\Bank_Managment_System.csproj.CopyComplete
